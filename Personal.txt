@@ -1,0 +1,41 @@
+개인 정보 (Personal Information)
+
+
+   * 이름 (Your Name): 임준현(LIM JUNHYUN)
+   * 직업/역할 (Your Roles): 풀스택 개발자 지향
+   * 이메일 (Email): tomtom35177@hs.ac.kr
+  소셜 링크 (Social Links)
+   * GitHub 프로필 URL: https://github.com/NiceTry3675
+  기술 스택 (Skills)
+   * 기술 목록 (List of Skills): 
+       * HTML5
+       * CSS3
+       * JavaScript
+       * TypeScript
+       * React
+       * Node.js
+       * Express
+       * Python
+       * Git
+       * Docker
+       * Webpack
+
+  프로젝트 (Projects)
+
+
+   * 프로젝트 목록 (List of Projects): (아래 형식을 복사하여 각 프로젝트 정보를 알려주세요.)
+    1     - 프로젝트 1:
+    2       - 제목 (Title): Gemini 기반 고급 데이터 분석 및 시각화
+    3       - 설명 (Description): CSV 파일을 업로드하고 자연어로 질문하면, Google Gemini AI가 데이터를 분석하고 인사이트를 제공하는 Streamlit 웹 애플리케이션입니다.
+    4       - 이미지 URL (Image URL): 적당한 이미지 아무거나
+    5       - GitHub 저장소 URL (GitHub URL): https://github.com/NiceTry3675/data-analysis-agent
+    6       - 데모 URL (Demo URL): https://github.com/NiceTry3675/data-analysis-agent/blob/main/sample.pdf
+    7 
+    8     - 프로젝트 2:
+    9       - 제목 (Title): AI 뉴스 요약 에이전트
+   10       - 설명 (Description): 네이버 뉴스 API, NewsAPI와 OpenAI/Anthropic AI 모델을 활용한 스마트 뉴스 요약 서비스입니다.
+   11       - 이미지 URL (Image URL): 적당한 이미지 아무거나
+   12       - GitHub 저장소 URL (GitHub URL): https://github.com/NiceTry3675/news-summarizer
+   13       - 데모 URL (Demo URL): https://github.com/NiceTry3675/news-summarizer/blob/main/AI%20%EB%89%B4%EC%8A%A4%20%EC%9A%94%EC%95%BD%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8.pdf
+   14 
+   15    

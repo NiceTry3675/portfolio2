@@ -1,0 +1,26 @@
+
+.footer-section {
+  padding: 2rem;
+  text-align: center;
+  background-color: #1a1a1a;
+}
+
+.social-links {
+  margin-bottom: 1rem;
+}
+
+.social-links a {
+  font-size: 1.5rem;
+  color: #ffffff;
+  margin: 0 0.75rem;
+  transition: color 0.3s;
+}
+
+.social-links a:hover {
+  color: #61dafb;
+}
+
+.footer-content p {
+  margin: 0;
+  color: #B8B8B8;
+}

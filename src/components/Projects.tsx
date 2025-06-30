@@ -8,7 +8,7 @@ const projectData = [
     description: "CSV 파일을 업로드하고 자연어로 질문하면, Google Gemini AI가 데이터를 분석하고 인사이트를 제공하는 Streamlit 웹 애플리케이션입니다.",
     imgUrl: "/images/data-analysis.jpg",
     githubUrl: "https://github.com/NiceTry3675/data-analysis-agent",
-    demoUrl: "https://github.com/NiceTry3675/data-analysis-agent/blob/main/sample.pdf"
+    demoUrl: "https://github.com/NiceTry3675/data-analysis-agent/blob/main/sample2.pdf"
   },
   {
     title: "AI 뉴스 요약 에이전트",

@@ -30,7 +30,7 @@ const Projects = () => {
             {projectData.map((project, index) => (
               <div className="project-card" key={index}>
                 <div className="project-image">
-                  <img src={project.imgUrl} alt={project.title} />
+                  <img src={`${process.env.PUBLIC_URL}${project.imgUrl}`} alt={project.title} />
                   <div className="project-overlay">
                     <h5>{project.title}</h5>
                     <p>{project.description}</p>

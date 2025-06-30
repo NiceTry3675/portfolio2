@@ -1,46 +1,36 @@
-# Getting Started with Create React App
+# 🚀 임준현의 포트폴리오 웹사이트
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
+</p>
 
-## Available Scripts
+안녕하세요! 이곳은 저의 모든 것을 담은 개인 포트폴리오의 공식 저장소입니다.
 
-In the project directory, you can run:
+**🔗 [포트폴리오 방문하기](https://NiceTry3675.github.io/portfolio2)**
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 🌟 주요 기능
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+*   **반응형 디자인**: 데스크탑, 태블릿, 모바일 등 모든 기기에서 최적화된 화면을 제공합니다.
+*   **인터랙티브 UI**: 스크롤 애니메이션과 동적인 요소로 사용자 경험을 향상시켰습니다.
+*   **프로젝트 쇼케이스**: 각 프로젝트를 카드 형태로 시각적���로 보여주며, 관련 링크를 쉽게 찾을 수 있습니다.
 
-### `npm test`
+### 🛠️ 기술 스택
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+*   **프론트엔드**: `React`, `TypeScript`, `React-Router`, `CSS`
+*   **배포**: `GitHub Pages`
+*   **개발 도구**: `Git`, `npm`, `ESLint`
 
-### `npm run build`
+### 🏃‍♂️ 시작 가이드
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1.  `git clone https://github.com/NiceTry3675/portfolio2.git`
+2.  `cd portfolio2`
+3.  `npm install`
+4.  `npm start`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+궁금한 점이 있다면 언제든지 연락주세요!

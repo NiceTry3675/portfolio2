@@ -25,7 +25,7 @@ const Projects = () => {
       <Fade direction="up" triggerOnce>
         <div className="projects-content">
           <h2>프로젝트</h2>
-          <p>제가 진행했던 프로젝트들입니다.</p>
+          <p>사용자의 편의성을 높이기 위해 고민했던 과정과 결과물입니다.</p>
           <div className="projects-grid">
             {projectData.map((project, index) => (
               <div className="project-card" key={index}>

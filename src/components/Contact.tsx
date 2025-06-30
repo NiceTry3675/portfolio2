@@ -9,7 +9,7 @@ const Contact = () => {
       <Fade direction="up" triggerOnce>
         <div className="contact-content">
           <h2>연락처</h2>
-          <p>언제든지 편하게 연락주세요! 새로운 프로젝트, 창의적인 아이디어, 또는 함께할 좋은 기회에 대해 이야기 나누는 것을 환영합니다.</p>
+          <p>실질적인 가치를 함께 만들어나갈 기회를 기다립니다. 흥미로운 아이디어가 있다면 주저 말고 연락 주세요.</p>
           <div className="contact-info">
             <div className="contact-item">
               <EnvelopeIcon />

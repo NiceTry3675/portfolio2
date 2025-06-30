@@ -35,7 +35,7 @@ const Skills = () => {
       <Fade direction="up" triggerOnce>
         <div className="skills-content">
           <h2>기술</h2>
-          <p>제가 다룰 수 있고, 현재 공부하고 있는 기술들입니다.</p>
+          <p>제가 사용 및 공부하고 있는 도구들입니다.</p>
           <div className="skills-grid">
             {skills.map((skill, index) => (
               <div key={index} className="skill-item">

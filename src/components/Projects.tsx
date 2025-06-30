@@ -6,7 +6,7 @@ const projectData = [
   {
     title: "Gemini 기반 고급 데이터 분석 및 시각화",
     description: "CSV 파일을 업로드하고 자연어로 질문하면, Google Gemini AI가 데이터를 분석하고 인사이트를 제공하는 Streamlit 웹 애플리케이션입니다.",
-    imgUrl: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    imgUrl: "/images/data-analysis.jpg",
     githubUrl: "https://github.com/NiceTry3675/data-analysis-agent",
     demoUrl: "https://github.com/NiceTry3675/data-analysis-agent/blob/main/sample.pdf"
   },

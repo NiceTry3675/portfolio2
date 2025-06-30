@@ -17,11 +17,16 @@ const Contact = () => {
             </div>
             <div className="contact-item">
               <PhoneIcon />
-              <span> </span>
+              <span>+82 10-1234-5678</span>
             </div>
             <div className="contact-item">
               <MarkerIcon />
-              <span> </span>
+              <span>대한민국, 서울</span>
+            </div>
+            <div className="contact-item">
+              <a href="https://github.com/NiceTry3675" target="_blank" rel="noopener noreferrer">
+                GitHub
+              </a>
             </div>
           </div>
         </div>

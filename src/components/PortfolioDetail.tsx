@@ -100,7 +100,7 @@ const PortfolioDetail = () => {
         <section className="detail-section">
           <h2>📚 추가 자료</h2>
           <ul>
-            <li><a href="https://velog.io/@nicetry/Stateful%ED%95%9C-LLM-%EB%B2%88%EC%97%AD-%EC%9B%8C%ED%81%8C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B0%9C%EB%B0%9C%EA%B8%B0" target="_blank" rel="noopener noreferrer">베타 서비스 런칭 개발 블로그</a></li>
+            <li><a href="https://velog.io/@nicetry/Stateful%ED%95%9C-LLM-%EB%B2%88%EC%97%AD-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B0%9C%EB%B0%9C%EA%B8%B0" target="_blank" rel="noopener noreferrer">베타 서비스 런칭 개발 블로그</a></li>
             <li><a href="https://www.youtube.com/watch?v=jhs0KUzCY7M" target="_blank" rel="noopener noreferrer">베타 런칭 전 로직 소개 영상</a></li>
           </ul>
         </section>

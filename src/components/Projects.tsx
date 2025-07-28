@@ -1,5 +1,6 @@
 import React from 'react';
 import { Fade } from 'react-awesome-reveal';
+
 import './Projects.css';
 
 const projectData = [
@@ -43,6 +44,7 @@ const Projects = () => {
               </div>
             ))}
           </div>
+          
         </div>
       </Fade>
     </section>

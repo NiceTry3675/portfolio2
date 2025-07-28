@@ -1,5 +1,5 @@
 import React from 'react';
-import { GithubIcon, LinkedinIcon, TwitterIcon } from './icons';
+import { GithubIcon } from './icons';
 import './Footer.css';
 
 const Footer = () => {

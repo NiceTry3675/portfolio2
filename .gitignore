@@ -22,6 +22,8 @@ yarn-error.log*
 
 # Gemini
 .gemini/
+gemini.md
+claude.md
 
 # Custom
 Personal.txt

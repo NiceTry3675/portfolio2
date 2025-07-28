@@ -14,8 +14,11 @@ import {
   FaPython,
   FaGitAlt,
   FaDocker,
+  FaLock,
 } from 'react-icons/fa';
-import { SiTypescript, SiExpress, SiWebpack } from 'react-icons/si';
+import { SiTypescript, SiExpress, SiWebpack, SiFastapi, SiSqlalchemy, SiNextdotjs, SiTailwindcss, SiPostgresql, SiRailway, SiVercel } from 'react-icons/si';
+
+export const ClerkIcon = () => <FaLock />;
 
 export const EnvelopeIcon = () => <FaEnvelope />;
 export const PhoneIcon = () => <FaPhone />;
@@ -34,3 +37,10 @@ export const DockerIcon = () => <FaDocker />;
 export const TypescriptIcon = () => <SiTypescript />;
 export const ExpressIcon = () => <SiExpress />;
 export const WebpackIcon = () => <SiWebpack />;
+export const FastApiIcon = () => <SiFastapi />;
+export const SqlalchemyIcon = () => <SiSqlalchemy />;
+export const NextjsIcon = () => <SiNextdotjs />;
+export const TailwindcssIcon = () => <SiTailwindcss />;
+export const PostgresqlIcon = () => <SiPostgresql />;
+export const RailwayIcon = () => <SiRailway />;
+export const VercelIcon = () => <SiVercel />;

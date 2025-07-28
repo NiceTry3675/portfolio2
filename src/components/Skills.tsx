@@ -12,6 +12,14 @@ import {
   TypescriptIcon,
   ExpressIcon,
   WebpackIcon,
+  FastApiIcon,
+  SqlalchemyIcon,
+  NextjsIcon,
+  TailwindcssIcon,
+  PostgresqlIcon,
+  RailwayIcon,
+  VercelIcon,
+  ClerkIcon,
 } from './icons';
 import './Skills.css';
 
@@ -20,13 +28,21 @@ const skills = [
   { icon: <Css3AltIcon />, name: 'CSS3' },
   { icon: <JsSquareIcon />, name: 'JavaScript' },
   { icon: <TypescriptIcon />, name: 'TypeScript' },
+  { icon: <NextjsIcon />, name: 'Next.js' },
+  { icon: <TailwindcssIcon />, name: 'Tailwind CSS' },
   { icon: <ReactIcon />, name: 'React' },
   { icon: <NodeJsIcon />, name: 'Node.js' },
   { icon: <ExpressIcon />, name: 'Express' },
   { icon: <PythonIcon />, name: 'Python' },
+  { icon: <FastApiIcon />, name: 'FastAPI' },
+  { icon: <SqlalchemyIcon />, name: 'SQLAlchemy' },
+  { icon: <PostgresqlIcon />, name: 'PostgreSQL' },
   { icon: <GitAltIcon />, name: 'Git' },
   { icon: <DockerIcon />, name: 'Docker' },
   { icon: <WebpackIcon />, name: 'Webpack' },
+  { icon: <RailwayIcon />, name: 'Railway' },
+  { icon: <VercelIcon />, name: 'Vercel' },
+  { icon: <ClerkIcon />, name: 'Clerk' },
 ];
 
 const Skills = () => {

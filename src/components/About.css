@@ -1,3 +1,15 @@
 #about {
-  padding: 2rem;
+  padding: 4rem 2rem;
+  margin: 2rem 0;
+  background-color: #2a2a2a; /* Projects 섹션과 동일한 배경색 */
+  border-radius: 10px;
+}
+
+#about p {
+  font-size: 1.2rem; /* 글자 크기 키움 */
+  line-height: 1.8;
+  letter-spacing: 0.5px;
+  max-width: 800px; /* 가독성을 위한 최대 너비 설정 */
+  margin-left: auto;
+  margin-right: auto;
 }

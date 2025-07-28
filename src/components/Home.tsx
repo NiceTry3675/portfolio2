@@ -16,7 +16,7 @@ const Home = () => {
         <Fade direction="up" triggerOnce>
           <div className="main-project-home-section">
             <h2>대표 포트폴리오</h2>
-            <h3>LLM 번역 워크플로우 최적화</h3>
+            <h3>LLM 번역 워크플로우 서비스 개발</h3>
             <p>AI 기반 번역 프로세스 개선을 통해 번역 품질과 효율성을 극대화한 프로젝트입니다. 자세한 내용을 보려면 아래 버튼을 클릭하세요.</p>
             <Link to="/portfolio-detail" className="btn-main-portfolio">포트폴리오 자세히 보기</Link>
           </div>

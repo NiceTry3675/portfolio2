@@ -1,4 +1,149 @@
 .portfolio-detail-container {
-  padding: 100px 20px;
-  color: white;
+  padding: 80px 20px;
+  max-width: 900px;
+  margin: 0 auto;
+  color: #fff;
+  line-height: 1.6;
+}
+
+.back-button {
+  display: inline-block;
+  margin-bottom: 30px;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.back-button:hover {
+  color: #0056b3;
+}
+
+.portfolio-title {
+  font-size: 2.8rem;
+  margin-bottom: 10px;
+  color: #007bff;
+  text-align: center;
+}
+
+.portfolio-subtitle {
+  font-size: 1.4rem;
+  margin-bottom: 40px;
+  color: #bbb;
+  text-align: center;
+}
+
+.detail-section {
+  background-color: #1a1a1a;
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.detail-section h2 {
+  font-size: 2rem;
+  color: #007bff;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 10px;
+}
+
+.detail-section p {
+  margin-bottom: 15px;
+}
+
+.detail-section ul,
+.detail-section ol {
+  list-style-position: inside;
+  margin-bottom: 15px;
+  padding-left: 20px;
+}
+
+.detail-section ul li,
+.detail-section ol li {
+  margin-bottom: 10px;
+}
+
+.detail-section strong {
+  color: #007bff;
+}
+
+.detail-section a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.detail-section a:hover {
+  text-decoration: underline;
+}
+
+/* Deep Dive Section Styles */
+.deep-dive {
+  background-color: #111;
+  border: 1px solid #007bff;
+}
+
+.deep-dive h2 {
+  color: #00aaff;
+  border-bottom-color: #00aaff;
+}
+
+.deep-dive-part {
+  margin-bottom: 25px;
+}
+
+.deep-dive-part h3 {
+  font-size: 1.6rem;
+  color: #00aaff;
+  margin-bottom: 15px;
+}
+
+.deep-dive-part p,
+.deep-dive-part ul {
+  font-size: 1rem;
+  color: #ddd;
+}
+
+.deep-dive-part strong {
+  color: #00d4ff;
+}
+
+.architecture-diagram {
+  width: 100%;
+  max-width: 600px;
+  margin: 20px auto;
+  display: block;
+  border-radius: 8px;
+  border: 1px solid #444;
+}
+
+.feature-image {
+  width: 100%;
+  max-width: 700px;
+  margin: 10px auto 25px;
+  display: block;
+  border-radius: 8px;
+  border: 1px solid #444;
+}
+
+/* Architecture Section Styles */
+.architecture-section {
+  background-color: #15151e;
+  border: 1px solid #4a90e2;
+  text-align: center; /* Center align the content */
+}
+
+.architecture-section h2 {
+  color: #4a90e2;
+  border-bottom-color: #4a90e2;
+}
+
+.architecture-diagram-image {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+  border: 1px solid #444;
+  border-radius: 8px;
+  background-color: #fff; /* In case the image has transparency */
 }

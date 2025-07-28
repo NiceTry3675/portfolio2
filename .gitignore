@@ -22,6 +22,7 @@ yarn-error.log*
 
 # Gemini
 .gemini/
+.claude/
 gemini.md
 claude.md
 
@@ -29,3 +30,6 @@ claude.md
 Personal.txt
 git.txt
 plan.md
+/trans
+trans.zip
+blog.md
